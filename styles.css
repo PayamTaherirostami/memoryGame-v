@@ -1,0 +1,47 @@
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5PX;
+}
+button{
+    background-color: blue;
+    color:white;
+    font-size: 1.4rem;
+    margin-top: 10px;
+}
+body{
+    background-color:blanchedalmond;
+}
+h3{
+    color: brown;
+}
+#result{
+    color: blue;
+}
+nav {
+    border-radius: 15px;
+    height: 30px;
+    background: #05a;
+    line-height: 30px;
+    margin-bottom: 5px;
+  }
+  nav ul {
+    list-style-type: none;
+  }
+  nav li {
+    float: left; 
+    width:50%;
+    text-align: center;
+  } 
+  nav a {
+    text-decoration: none;
+    display: block;
+    color: white;
+  }
+  nav a:hover {
+    border-radius: 15px;
+    background: #028;
+    color: aqua;
+  }
